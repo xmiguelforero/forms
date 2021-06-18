@@ -1,0 +1,26 @@
+.container-login .banner {
+  background-image: url("https://crm.radzen.com/assets/images/login-background.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.container-register .banner {
+  background-image: url("https://crm.radzen.com/assets/images/login-background.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.principal-button {
+  margin-top: 25px;
+  float: right;
+}
+
+.filerequired {
+  border: 1px solid red;
+}
+
+.dhidden {
+  display: none;
+  color: red;
+}
+/*# sourceMappingURL=index.css.map */

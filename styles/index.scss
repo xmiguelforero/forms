@@ -1,0 +1,14 @@
+//Pages
+@import "./pages/login";
+@import "./pages/register";
+//Components
+@import "./components/buttons";
+
+.filerequired {
+    border: 1px solid red;
+}
+
+.dhidden {
+    display: none;
+    color: red;
+}
